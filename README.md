@@ -12,17 +12,25 @@ For anything more complex than file commands, Sepal drops to Trillia and is buil
 
 ## What Does Sepal Solve?
 
+### Multiple Working Directories
 Sepal, unlike other shell languages, is designed for multiple working directories.
 You can switch between working directories on the fly instead of opening several terminals.
 
+### Automatically Parallelizable
 Sepal, like Trillia, is designed to know when processes can be parallelized safely, and will do so for tasks that would otherwise take a long time to solve.
 As such, it's usually faster than other shell languages.
 
+### Clean Modern Design
 Sepal is not some arcane language.
 Other shells like Bash are unintuitive and look like magic to those who don't understand.
 Sepal is more straightforward and comes with an entirely interactive manual built for teaching the language and Trillia.
 The bar for entry is extremely low, and the mental model is simplified.
 Sepal is built with a modern design, rejecting POSIX allows it to be more internally consistent with Trillia.
+
+### Hot Editing
+With Sepal, you can *edit Trillia code ***while it's running***.*
+Sepal is designed specifically to be a runtime debugger, editor, and companion for Trillia code.
+With runtime analysis, runtime debugging, runtime tracing, and literal hot-fixes, Sepal becomes an essential tool for maximizing productivity, finding the root causes of bugs live as they appear.
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/TiCaLiBrO/Sepal/blob/main/Sepal%20Logo.png)
 
