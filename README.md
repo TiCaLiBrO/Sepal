@@ -24,6 +24,6 @@ Sepal is more straightforward and comes with an entirely interactive manual buil
 The bar for entry is extremely low, and the mental model is simplified.
 Sepal is built with a modern design, rejecting POSIX allows it to be more internally consistent with Trillia.
 
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/TiCaLiBrO/Sepal/blob/main/Sepal%20Logo.png)
 
 
