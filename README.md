@@ -1,8 +1,8 @@
 # Sepal
 
 > [!TIP]
-> You can enter the Sepal manual [here](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md). Go wherever your heart takes you.
-<!-- The link here is a placeholder. We will link it to Sepal's real page later -->
+> You can enter the Trillia manual [here](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md). Go wherever your heart takes you.
+> This is the [/sepal](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepal/sepalinfo.md) tutorial found within.
 
 ## What Is Sepal?
 
