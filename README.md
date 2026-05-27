@@ -1,14 +1,14 @@
 # Sepal
 
-> [!TIP]
-> You can enter the Trillia manual [here](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md). Go wherever your heart takes you.
-> This is the [/sepal](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepal/sepalinfo.md) tutorial found within.
-
 ## What Is Sepal?
 
 Sepal is a shell language designed to interop with Trillia.
 Sepal itself is extremely small, not even capable of mathematics or control structures.
 For anything more complex than file commands, Sepal drops to Trillia and is built to do so readily.
+
+> [!TIP]
+> You can enter the Trillia manual [here](https://github.com/TiCaLiBrO/Trillia/blob/main/root/sepalinfo.md). Go wherever your heart takes you.
+> This is the [Sepal](https://github.com/TiCaLiBrO/Trillia/blob/main/root/learning/tutorials/sepal/sepalinfo.md) tutorial found within.
 
 ## What Does Sepal Solve?
 
