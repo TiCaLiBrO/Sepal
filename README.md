@@ -27,10 +27,18 @@ Sepal is more straightforward and comes with an entirely interactive manual buil
 The bar for entry is extremely low, and the mental model is simplified.
 Sepal is built with a modern design, rejecting POSIX allows it to be more internally consistent with Trillia.
 
-### Hot Edits
+### Version Control & Hot Edits
 With Sepal, you can *edit Trillia code ***while it's running***.*
 Sepal is designed specifically to be a runtime debugger, editor, and companion for Trillia code.
 With runtime analysis, runtime debugging, runtime tracing, and literal hot-fixes, Sepal becomes an essential tool for maximizing productivity, finding the root causes of bugs live as they appear.
+Version control is entirely handleable via Sepal, allowing you to test, branch, and commit changes as desired.
+Sepal is a shell that can navigate the filesystem, but when running a program, it often turns into a REPL, allowing errors to be fixed as they appear.
+Sepal is both a shell and a REPL by design.
+
+### Decompilation
+Sepal is designed to decompile Trillia files, allowing them to be edited and recompiled after compilation.
+Since Trillia is designed to be losslessly reverse-compilable, Sepal works as the primary way to edit compiled files.
+
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/TiCaLiBrO/Sepal/blob/main/Sepal%20Logo.png)
 
